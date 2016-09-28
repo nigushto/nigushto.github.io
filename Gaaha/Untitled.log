@@ -1,0 +1,387 @@
+
+7/10/16, 7:44:28 PM - ERROR: Download of "http://laser.nyc/css/img/bx_loader.gif",
+	referenced from "http://laser.nyc/css/style.css",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:28 PM - ERROR: Download of "http://laser.nyc/css/img/controls.png",
+	referenced from "http://laser.nyc/css/style.css",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:29 PM - ERROR: Download of "http://laser.nyc/trendcue",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:29 PM - ERROR: Download of "http://laser.nyc/opperman-weiss",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:29 PM - ERROR: Download of "http://laser.nyc/coach",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:30 PM - ERROR: Download of "http://laser.nyc/athenos",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:30 PM - ERROR: Download of "http://laser.nyc/wired-score",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:30 PM - ERROR: Download of "http://laser.nyc/droga5",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:30 PM - ERROR: Download of "http://laser.nyc/puma",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:31 PM - ERROR: Download of "http://laser.nyc/thunderclap",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:31 PM - ERROR: Download of "http://laser.nyc/uglydolls",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:31 PM - ERROR: Download of "http://laser.nyc/tap-project",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:31 PM - ERROR: Download of "http://laser.nyc/target",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:31 PM - ERROR: Download of "http://laser.nyc/prodigy-network",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:31 PM - ERROR: Download of "http://laser.nyc/cokezero",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:31 PM - ERROR: Download of "http://laser.nyc/lowes",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:31 PM - ERROR: Download of "http://laser.nyc/faithless",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:31 PM - ERROR: Download of "http://laser.nyc/audi",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:31 PM - ERROR: Download of "http://laser.nyc/gentlemans-list",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:32 PM - ERROR: Download of "http://laser.nyc/peaceful-countries",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:32 PM - ERROR: Download of "http://laser.nyc/spotify",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:32 PM - ERROR: Download of "http://laser.nyc/imagine-that",
+	referenced from "http://laser.nyc/projects",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:32 PM - ERROR: Download of "http://laser.nyc/img/about1.jpg",
+	referenced from "http://laser.nyc/about",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:32 PM - ERROR: Download of "http://laser.nyc/img/icon_visualDesign.png",
+	referenced from "http://laser.nyc/about",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:32 PM - ERROR: Download of "http://laser.nyc/img/icon_responsivelDesign.png",
+	referenced from "http://laser.nyc/about",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:32 PM - ERROR: Download of "http://laser.nyc/img/about2.jpg",
+	referenced from "http://laser.nyc/about",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:32 PM - ERROR: Download of "http://laser.nyc/img/icon_webDevelopment.png",
+	referenced from "http://laser.nyc/about",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:32 PM - ERROR: Download of "http://laser.nyc/img/icon_informationArchitecture.png",
+	referenced from "http://laser.nyc/about",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:32 PM - ERROR: Download of "http://laser.nyc/img/icon_concepting.png",
+	referenced from "http://laser.nyc/about",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:32 PM - ERROR: Download of "http://laser.nyc/img/icon_branding.png",
+	referenced from "http://laser.nyc/about",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:33 PM - ERROR: Download of "http://laser.nyc/img/about4.jpg",
+	referenced from "http://laser.nyc/about",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:33 PM - ERROR: Download of "http://laser.nyc/img/slide01.jpg",
+	referenced from "http://laser.nyc/about",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:33 PM - ERROR: Download of "http://laser.nyc/img/about3.jpg",
+	referenced from "http://laser.nyc/about",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:33 PM - ERROR: Download of "http://laser.nyc/img/slide02.jpg",
+	referenced from "http://laser.nyc/about",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:33 PM - ERROR: Download of "http://laser.nyc/img/slide03.jpg",
+	referenced from "http://laser.nyc/about",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:33 PM - ERROR: Download of "http://laser.nyc/img/slide04.jpg",
+	referenced from "http://laser.nyc/about",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:33 PM - ERROR: Download of "http://laser.nyc/img/about6.jpg",
+	referenced from "http://laser.nyc/about",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:33 PM - ERROR: Download of "http://laser.nyc/projects/video/opperman.mp4",
+	referenced from "http://laser.nyc/projects/opperman-weiss",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:33 PM - ERROR: Download of "http://laser.nyc/projects/img/vid-replace.jpg",
+	referenced from "http://laser.nyc/projects/opperman-weiss",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:33 PM - ERROR: Download of "http://laser.nyc/projects/video/athenos.mp4",
+	referenced from "http://laser.nyc/projects/athenos",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:33 PM - ERROR: Download of "http://laser.nyc/projects/video/coach.mp4",
+	referenced from "http://laser.nyc/projects/coach",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:33 PM - ERROR: Download of "http://laser.nyc/projects/img/peanutsmultb2.png",
+	referenced from "http://laser.nyc/projects/coach",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:33 PM - ERROR: Download of "http://laser.nyc/projects/img/peanutsmultb1.jpg",
+	referenced from "http://laser.nyc/projects/coach",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:34 PM - ERROR: Download of "http://laser.nyc/projects/img/isophone.png",
+	referenced from "http://laser.nyc/projects/coach",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:34 PM - ERROR: Download of "http://laser.nyc/projects/img/peanutsmultb3.jpg",
+	referenced from "http://laser.nyc/projects/coach",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:34 PM - ERROR: Download of "http://laser.nyc/projects/img/peanuts-mobile2.png",
+	referenced from "http://laser.nyc/projects/coach",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:34 PM - ERROR: Download of "http://laser.nyc/projects/img/peanutsmultc1.png",
+	referenced from "http://laser.nyc/projects/coach",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:34 PM - ERROR: Download of "http://laser.nyc/projects/img/peanuts-mobile3.png",
+	referenced from "http://laser.nyc/projects/coach",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:34 PM - ERROR: Download of "http://laser.nyc/projects/img/peanutsmultc2.png",
+	referenced from "http://laser.nyc/projects/coach",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:34 PM - ERROR: Download of "http://laser.nyc/projects/img/devices2.png",
+	referenced from "http://laser.nyc/projects/coach",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:34 PM - ERROR: Download of "http://laser.nyc/projects/img/peanutsmultd1.png",
+	referenced from "http://laser.nyc/projects/coach",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:34 PM - ERROR: Download of "http://laser.nyc/projects/img/peanutsmultd2.png",
+	referenced from "http://laser.nyc/projects/coach",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:34 PM - ERROR: Download of "http://laser.nyc/projects/img/peanuts-mobile4.png",
+	referenced from "http://laser.nyc/projects/coach",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:34 PM - ERROR: Download of "http://laser.nyc/projects/img/peanutsmultd3.jpg",
+	referenced from "http://laser.nyc/projects/coach",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:34 PM - ERROR: Download of "http://laser.nyc/projects/img/isophone2.png",
+	referenced from "http://laser.nyc/projects/coach",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:35 PM - ERROR: Download of "http://laser.nyc/projects/video/droga5.mp4",
+	referenced from "http://laser.nyc/projects/droga5",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:35 PM - ERROR: Download of "http://laser.nyc/projects/img/drogamulta1.jpg",
+	referenced from "http://laser.nyc/projects/droga5",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:35 PM - ERROR: Download of "http://laser.nyc/projects/img/droga1.jpg",
+	referenced from "http://laser.nyc/projects/droga5",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:35 PM - ERROR: Download of "http://laser.nyc/projects/img/drogamulta2.jpg",
+	referenced from "http://laser.nyc/projects/droga5",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:35 PM - ERROR: Download of "http://laser.nyc/projects/img/drogamulta3.png",
+	referenced from "http://laser.nyc/projects/droga5",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:35 PM - ERROR: Download of "http://laser.nyc/projects/img/droga-mobile1.png",
+	referenced from "http://laser.nyc/projects/droga5",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:35 PM - ERROR: Download of "http://laser.nyc/projects/img/drogamulta4.png",
+	referenced from "http://laser.nyc/projects/droga5",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:35 PM - ERROR: Download of "http://laser.nyc/projects/img/drogamultb1.png",
+	referenced from "http://laser.nyc/projects/droga5",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:35 PM - ERROR: Download of "http://laser.nyc/projects/img/droga2.jpg",
+	referenced from "http://laser.nyc/projects/droga5",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:35 PM - ERROR: Download of "http://laser.nyc/projects/img/drogamultb3.png",
+	referenced from "http://laser.nyc/projects/droga5",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:35 PM - ERROR: Download of "http://laser.nyc/projects/img/drogamultb2.png",
+	referenced from "http://laser.nyc/projects/droga5",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:35 PM - ERROR: Download of "http://laser.nyc/projects/img/droga-mobile2.png",
+	referenced from "http://laser.nyc/projects/droga5",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:35 PM - ERROR: Download of "http://laser.nyc/projects/img/drogamultc2.jpg",
+	referenced from "http://laser.nyc/projects/droga5",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:35 PM - ERROR: Download of "http://laser.nyc/projects/img/drogamultc1.jpg",
+	referenced from "http://laser.nyc/projects/droga5",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:35 PM - ERROR: Download of "http://laser.nyc/projects/img/droga-mobile3.jpg",
+	referenced from "http://laser.nyc/projects/droga5",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:36 PM - ERROR: Download of "http://laser.nyc/projects/img/droga-mobile4.png",
+	referenced from "http://laser.nyc/projects/droga5",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:36 PM - ERROR: Download of "http://laser.nyc/projects/img/wiredmulta1.png",
+	referenced from "http://laser.nyc/projects/wired-score",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:36 PM - ERROR: Download of "http://laser.nyc/projects/img/wiredmulta2.png",
+	referenced from "http://laser.nyc/projects/wired-score",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:36 PM - ERROR: Download of "http://laser.nyc/projects/img/wiredmulta3.png",
+	referenced from "http://laser.nyc/projects/wired-score",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:36 PM - ERROR: Download of "http://laser.nyc/projects/img/wired1.jpg",
+	referenced from "http://laser.nyc/projects/wired-score",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:36 PM - ERROR: Download of "http://laser.nyc/projects/img/wired-mobile1.png",
+	referenced from "http://laser.nyc/projects/wired-score",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:36 PM - ERROR: Download of "http://laser.nyc/projects/img/wired2.png",
+	referenced from "http://laser.nyc/projects/wired-score",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:36 PM - ERROR: Download of "http://laser.nyc/projects/img/wiredmultb1.png",
+	referenced from "http://laser.nyc/projects/wired-score",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:36 PM - ERROR: Download of "http://laser.nyc/projects/img/wiredmultb2.png",
+	referenced from "http://laser.nyc/projects/wired-score",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:36 PM - ERROR: Download of "http://laser.nyc/projects/img/wired-mobile2.png",
+	referenced from "http://laser.nyc/projects/wired-score",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:36 PM - ERROR: Download of "http://laser.nyc/projects/img/wired-phones.png",
+	referenced from "http://laser.nyc/projects/wired-score",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:36 PM - ERROR: Download of "http://laser.nyc/projects/img/wired3.png",
+	referenced from "http://laser.nyc/projects/wired-score",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:36 PM - ERROR: Download of "http://laser.nyc/projects/img/puma1.jpg",
+	referenced from "http://laser.nyc/projects/puma",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:36 PM - ERROR: Download of "http://laser.nyc/projects/img/pumamulta3.jpg",
+	referenced from "http://laser.nyc/projects/puma",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:36 PM - ERROR: Download of "http://laser.nyc/projects/img/pumamulta2.jpg",
+	referenced from "http://laser.nyc/projects/puma",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:36 PM - ERROR: Download of "http://laser.nyc/projects/img/pumamulta1.png",
+	referenced from "http://laser.nyc/projects/puma",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:36 PM - ERROR: Download of "http://laser.nyc/projects/img/puma-ipad.png",
+	referenced from "http://laser.nyc/projects/puma",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:36 PM - ERROR: Download of "http://laser.nyc/projects/img/puma-mobile1.png",
+	referenced from "http://laser.nyc/projects/puma",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:37 PM - ERROR: Download of "http://laser.nyc/projects/img/puma2.jpg",
+	referenced from "http://laser.nyc/projects/puma",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:37 PM - ERROR: Download of "http://laser.nyc/projects/img/pumamultb2.jpg",
+	referenced from "http://laser.nyc/projects/puma",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:37 PM - ERROR: Download of "http://laser.nyc/projects/img/puma-mobile2.png",
+	referenced from "http://laser.nyc/projects/puma",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:37 PM - ERROR: Download of "http://laser.nyc/projects/img/pumamultb1.png",
+	referenced from "http://laser.nyc/projects/puma",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:37 PM - ERROR: Download of "http://laser.nyc/projects/img/puma3.jpg",
+	referenced from "http://laser.nyc/projects/puma",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:37 PM - ERROR: Download of "http://laser.nyc/projects/img/cannes.png",
+	referenced from "http://laser.nyc/projects/thunderclap",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:37 PM - ERROR: Download of "http://laser.nyc/projects/video/thunderclap.mp4",
+	referenced from "http://laser.nyc/projects/thunderclap",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:37 PM - ERROR: Download of "http://laser.nyc/projects/img/thunder1.jpg",
+	referenced from "http://laser.nyc/projects/thunderclap",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:37 PM - ERROR: Download of "http://laser.nyc/projects/img/heard.png",
+	referenced from "http://laser.nyc/projects/thunderclap",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:37 PM - ERROR: Download of "http://laser.nyc/projects/img/poster.jpg",
+	referenced from "http://laser.nyc/projects/thunderclap",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:37 PM - ERROR: Download of "http://laser.nyc/projects/img/thundermulta1.png",
+	referenced from "http://laser.nyc/projects/thunderclap",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:37 PM - ERROR: Download of "http://laser.nyc/projects/img/thundermulta2.png",
+	referenced from "http://laser.nyc/projects/thunderclap",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:37 PM - ERROR: Download of "http://laser.nyc/projects/img/thundermulta3.png",
+	referenced from "http://laser.nyc/projects/thunderclap",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:37 PM - ERROR: Download of "http://laser.nyc/projects/img/thunder-mobile1.png",
+	referenced from "http://laser.nyc/projects/thunderclap",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:37 PM - ERROR: Download of "http://laser.nyc/projects/img/thundermultb1.png",
+	referenced from "http://laser.nyc/projects/thunderclap",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:37 PM - ERROR: Download of "http://laser.nyc/projects/img/thundermultb2.png",
+	referenced from "http://laser.nyc/projects/thunderclap",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:37 PM - ERROR: Download of "http://laser.nyc/projects/img/thundermultb3.png",
+	referenced from "http://laser.nyc/projects/thunderclap",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:38 PM - ERROR: Download of "http://laser.nyc/projects/img/thunder-mobile2.png",
+	referenced from "http://laser.nyc/projects/thunderclap",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:38 PM - ERROR: Download of "http://laser.nyc/projects/img/thunder2.jpg",
+	referenced from "http://laser.nyc/projects/thunderclap",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:38 PM - ERROR: Download of "http://laser.nyc/projects/img/thundermultc1.jpg",
+	referenced from "http://laser.nyc/projects/thunderclap",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:38 PM - ERROR: Download of "http://laser.nyc/projects/img/thunder-mobile3.png",
+	referenced from "http://laser.nyc/projects/thunderclap",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:38 PM - ERROR: Download of "http://laser.nyc/projects/img/thundermultc2.jpg",
+	referenced from "http://laser.nyc/projects/thunderclap",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:38 PM - ERROR: Download of "http://laser.nyc/projects/img/thunder3.jpg",
+	referenced from "http://laser.nyc/projects/thunderclap",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:38 PM - ERROR: Download of "http://laser.nyc/projects/img/thunder-phones.png",
+	referenced from "http://laser.nyc/projects/thunderclap",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:38 PM - ERROR: Download of "http://laser.nyc/projects/img/bronze-lion.png",
+	referenced from "http://laser.nyc/projects/tap-project",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:38 PM - ERROR: Download of "http://laser.nyc/projects/video/tap-project.mp4",
+	referenced from "http://laser.nyc/projects/tap-project",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:38 PM - ERROR: Download of "http://laser.nyc/projects/img/tap1.jpg",
+	referenced from "http://laser.nyc/projects/tap-project",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:38 PM - ERROR: Download of "http://laser.nyc/projects/img/tap2.jpg",
+	referenced from "http://laser.nyc/projects/tap-project",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:39 PM - ERROR: Download of "http://laser.nyc/projects/img/tapmulta2.jpg",
+	referenced from "http://laser.nyc/projects/tap-project",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:39 PM - ERROR: Download of "http://laser.nyc/projects/img/tapmulta3.jpg",
+	referenced from "http://laser.nyc/projects/tap-project",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:39 PM - ERROR: Download of "http://laser.nyc/projects/img/tap-ipad.png",
+	referenced from "http://laser.nyc/projects/tap-project",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:39 PM - ERROR: Download of "http://laser.nyc/projects/img/tap-mobile1.png",
+	referenced from "http://laser.nyc/projects/tap-project",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:39 PM - ERROR: Download of "http://laser.nyc/projects/img/tap3.jpg",
+	referenced from "http://laser.nyc/projects/tap-project",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:39 PM - ERROR: Download of "http://laser.nyc/projects/img/tapmultb1.jpg",
+	referenced from "http://laser.nyc/projects/tap-project",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:39 PM - ERROR: Download of "http://laser.nyc/projects/img/tapmultb2.jpg",
+	referenced from "http://laser.nyc/projects/tap-project",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:39 PM - ERROR: Download of "http://laser.nyc/projects/img/tap-mobile2.png",
+	referenced from "http://laser.nyc/projects/tap-project",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:39 PM - ERROR: Download of "http://laser.nyc/projects/img/tap4.jpg",
+	referenced from "http://laser.nyc/projects/tap-project",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:39 PM - ERROR: Download of "http://laser.nyc/projects/img/tap5.jpg",
+	referenced from "http://laser.nyc/projects/tap-project",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:39 PM - ERROR: Download of "http://laser.nyc/projects/img/tap-phones.png",
+	referenced from "http://laser.nyc/projects/tap-project",
+	failed with error code -1100 (File does not exist.)
+7/10/16, 7:44:41 PM - ERROR: Download of "http://laser.nyc/projects/img/tapmulta1.jpg",
+	referenced from "http://laser.nyc/projects/tap-project",
+	failed with error code -1100 (File does not exist.)
+
+---------------------
